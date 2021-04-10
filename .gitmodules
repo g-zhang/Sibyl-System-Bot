@@ -1,0 +1,3 @@
+[submodule "vader-sentiment-rust"]
+	path = vader-sentiment-rust
+	url = https://github.com/g-zhang/vader-sentiment-rust.git
